@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutuja8373&label=Profile%20views&color=0e75b6&style=flat" alt="rutuja8373" /> </p>
 
-- 🌱 I’m currently learning **Data Structure**
+- 🌱 I’m currently learning in**TYBcs**
 
 - 📫 How to reach me **rutujababasahebdhatrak@gmail.com**
 
