@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutuja8373&label=Profile%20views&color=0e75b6&style=flat" alt="rutuja8373" /> </p>
 
-- 🌱 I’m currently learning in **TYBcs**
+- 🌱 I have completed my graduation in Bachelors of computer Science
 
 - 📫 How to reach me **rutujababasahebdhatrak@gmail.com**
 
